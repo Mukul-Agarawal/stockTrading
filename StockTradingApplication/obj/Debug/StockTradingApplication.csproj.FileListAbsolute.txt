@@ -1,0 +1,6 @@
+C:\Users\mukul.agarawal\source\repos\StockTradingApplication\StockTradingApplication\obj\Debug\StockTradingApplication.csproj.CoreCompileInputs.cache
+C:\Users\mukul.agarawal\source\repos\StockTradingApplication\StockTradingApplication\bin\Debug\StockTradingApplication.exe
+C:\Users\mukul.agarawal\source\repos\StockTradingApplication\StockTradingApplication\bin\Debug\StockTradingApplication.pdb
+C:\Users\mukul.agarawal\source\repos\StockTradingApplication\StockTradingApplication\obj\Debug\StockTradingApplication.exe
+C:\Users\mukul.agarawal\source\repos\StockTradingApplication\StockTradingApplication\obj\Debug\StockTradingApplication.pdb
+C:\Users\mukul.agarawal\source\repos\StockTradingApplication\StockTradingApplication\obj\Debug\StockTradingApplication.csproj.AssemblyReference.cache
